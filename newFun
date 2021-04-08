@@ -2,3 +2,5 @@ function hi (){
 alert ("hi");
 }
 //don't touch this function
+
+yes
