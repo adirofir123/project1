@@ -8,3 +8,5 @@ yes
 //new change
 
 let b = x => 8 ;
+
+consule.log(b(2));
