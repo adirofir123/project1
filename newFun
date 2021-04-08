@@ -3,13 +3,10 @@ alert ("hi");
 }
 //don't touch this function
 
-yes
 
 //new change
 
 let b = x => 8 ;
 
-consule.log(b(2));
 
 
-change github
